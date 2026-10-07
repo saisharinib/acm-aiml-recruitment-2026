@@ -1,0 +1,9 @@
+Solar power has grown from a niche technology into one of the cheapest sources of electricity in many parts of the world. Over the past decade, the cost of solar panels has fallen sharply because of better manufacturing methods and large-scale production. As a result, governments, businesses and households are installing panels at a record pace.
+
+A solar panel works by converting sunlight directly into electricity using materials called semiconductors. When sunlight hits the panel, it knocks electrons loose, and this flow of electrons creates an electric current. The current can power a home immediately or be stored in batteries for use at night.
+
+However, solar power has real limitations. Panels produce no electricity after sunset and produce less on cloudy days, so grids need ways to store energy or draw on other sources. Large solar farms also require a lot of land, which can compete with agriculture and natural habitats.
+
+Engineers are working on solutions to these problems. Better batteries are making it cheaper to store solar energy for the evening, and floating solar farms on reservoirs save land while reducing water evaporation. Smart grids can also balance supply and demand by shifting electricity use to sunny hours.
+
+Many experts believe that solar energy will supply a large share of the world's electricity within the next twenty years. Reaching that goal will depend on continued investment, supportive policies and improvements in storage technology.
